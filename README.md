@@ -1,17 +1,17 @@
 # Truecaller Blog
-It contains two directories, **web and server.**
+It contains two submodules, **web and server.**
 
 ## Web
 It contains the client side code written in Vue.js and in Typescript.
 
-Instructions about project setup and deployment can be found [here](web/README.md).
+Instructions about project setup and deployment can be found [here](https://github.com/sumitmckv/truecaller-blog-web/blob/master/README.md).
 
 ## Server
 It contains the server side code written in Express.
 
 It acts as a proxy server between the client and wordpress.com’s REST api.
 
-Instructions about project setup and deployment can be found [here](server/README.md).
+Instructions about project setup and deployment can be found [here](https://github.com/sumitmckv/truecaller-blog-server/blob/master/README.md).
 
 ## Technology Used
 **Web:**
